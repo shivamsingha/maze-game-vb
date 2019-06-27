@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Maze
+</name>
+</assembly>
+<members>
+<member name="M:Maze.Form1.MoveToStart">
+	<summary>
+ Play a sound, then move the mouse pointer to a point 10 pixels down and to the right of the starting point in the upper-left corner of the maze. 
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Maze.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Maze.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Maze.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
